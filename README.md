@@ -1,16 +1,8 @@
 <div align="center">
 
-# ANIKET PANDEY
-
-### AI × SOFTWARE × EXPERIMENTATION
-
-*I like figuring out what happens when a new tool meets a real problem.*
-
-[Portfolio](#) · [LinkedIn](#) · [Email](#)
+<img src="./assets/hero.svg" alt="Aniket Pandey — AI, software and experimentation" width="100%" />
 
 </div>
-
----
 
 ## / ABOUT
 
@@ -185,7 +177,7 @@ Just good work.
 
 **If you're building something interesting, I'd probably like to hear about it.**
 
-[GitHub](https://github.com/Aniket28-4L) · [LinkedIn](https://www.linkedin.com/) · [Portfolio](https://example.com)
+[GitHub](https://github.com/Aniket28-4L)
 
 </div>
 
