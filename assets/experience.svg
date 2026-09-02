@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250">
+<rect width="1200" height="250" fill="#f7f5ef"/>
+<text x="42" y="40" font-family="Arial,sans-serif" font-size="11" letter-spacing="4" fill="#555">INTERFACE / ENGINEERING + EXPERIENCE</text>
+<g fill="none" stroke="#171717"><rect x="42" y="72" width="500" height="130"/><rect x="66" y="96" width="180" height="82"/><rect x="266" y="96" width="252" height="18"/><rect x="266" y="128" width="180" height="12"/><rect x="266" y="152" width="120" height="12"/></g>
+<circle cx="156" cy="137" r="29" fill="#171717"/><path d="M156 108v58M127 137h58" stroke="#f7f5ef"/>
+<g font-family="monospace" font-size="11" fill="#555"><text x="590" y="88">01 / HIERARCHY</text><text x="590" y="116">02 / FEEDBACK</text><text x="590" y="144">03 / MOTION WITH PURPOSE</text><text x="590" y="172">04 / RESPONSIVE BEHAVIOUR</text><text x="590" y="200">05 / PERFORMANCE</text></g>
+<path d="M42 220H1158" stroke="#d4642a" stroke-width="2"/>
+</svg>
