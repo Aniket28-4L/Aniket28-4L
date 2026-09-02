@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Aniket Pandey — AI, software and experimentation</title>
+<desc id="desc">Editorial profile banner with Aniket Pandey and a systems-inspired grid.</desc>
+<rect width="1200" height="300" fill="#FAFAF8"/>
+<g fill="none" stroke="#0C0C0C" stroke-width="1" opacity=".12">
+<path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+<path d="M120 0V300M240 0V300M360 0V300M480 0V300M600 0V300M720 0V300M840 0V300M960 0V300M1080 0V300"/>
+</g>
+<circle cx="1010" cy="82" r="48" fill="none" stroke="#D4642A" stroke-width="2"/>
+<circle cx="1010" cy="82" r="9" fill="#D4642A"/>
+<path d="M962 82h-86M1058 82h86M1010 34V0M1010 130v86" stroke="#D4642A" stroke-width="1" opacity=".7"/>
+<text x="70" y="92" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="5" fill="#0C0C0C">AI × SOFTWARE × EXPERIMENTATION</text>
+<text x="70" y="160" font-family="Georgia, serif" font-size="62" fill="#0C0C0C">ANIKET PANDEY</text>
+<text x="74" y="205" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2" fill="#0C0C0C" opacity=".68">BUILDING • BREAKING • UNDERSTANDING • SHIPPING</text>
+<path d="M70 242H430" stroke="#0C0C0C" stroke-width="2"/>
+<text x="70" y="268" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#0C0C0C" opacity=".55">CURIOUS BY DEFAULT</text>
+</svg>
