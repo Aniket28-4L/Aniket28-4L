@@ -1,269 +1,275 @@
 <div align="center">
-<img src="./assets/hero.svg" alt="Aniket Pandey — AI creative engineer" width="100%" />
+
+# ANIKET PANDEY
+
+### AI · SOFTWARE · SYSTEMS · CREATIVE TECHNOLOGY
+
+I build software around real problems — from AI workflows and full-stack applications to automation, CI/CD and digital experiences.
+
+[GitHub](https://github.com/Aniket28-4L) · [Repositories](https://github.com/Aniket28-4L?tab=repositories)
+
 </div>
-
-<br/>
-
-<div align="center">
-<code>AI SYSTEMS</code> &nbsp;·&nbsp; <code>SOFTWARE</code> &nbsp;·&nbsp; <code>CREATIVE ENGINEERING</code> &nbsp;·&nbsp; <code>MOTION</code>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/system.svg" alt="Animated system map" width="100%" />
-</div>
-
-## / 00 — THE SHORT VERSION
-
-I'm **Aniket Pandey** — a builder working at the intersection of **AI, software, automation and visual experience**.
-
-I like systems that are technically serious but don't feel lifeless.
-
-That means I care about the model, the architecture, the interface, the interaction, the deployment — and the tiny moment where someone uses the thing and thinks **"yeah, this feels considered."**
-
-I'm not interested in pretending one title explains everything I do.
-
-**I build. I experiment. I break things. I understand them. Then I make them better.**
 
 ---
 
-## / 01 — ENGINEERING, BUT WITH A POINT OF VIEW
+## / 00 — WHAT I ACTUALLY BUILD
 
-<table>
-<tr><td width="50%">
+I work across the layers that turn an idea into something people can use:
 
-**INTELLIGENCE**  
-LLMs · GenAI · agents · tool use · AI-assisted development · automation
+| AREA | WHAT THAT LOOKS LIKE |
+|---|---|
+| **AI systems** | LLM integrations, structured outputs, multi-step workflows, agents, automation |
+| **Software** | TypeScript, JavaScript, React, Node.js, Express, APIs, MongoDB |
+| **DevOps** | Git, GitHub Actions, Jenkins, Docker, AWS, Linux, CI/CD |
+| **Interfaces** | React, Vite, Tailwind, GSAP, Framer Motion, responsive product experiences |
+| **Delivery** | Debugging, deployment, CMS integration, performance and production fixes |
 
-</td><td width="50%">
-
-**SOFTWARE**  
-TypeScript · JavaScript · React · Vite · Node.js · APIs · MongoDB
-
-</td></tr>
-<tr><td>
-
-**SYSTEMS**  
-Docker · AWS · Linux · GitHub Actions · Jenkins · CI/CD · Kubernetes
-
-</td><td>
-
-**EXPERIENCE**  
-GSAP · Framer Motion · Tailwind · interactive interfaces · digital experiences
-
-</td></tr>
-</table>
-
-The interesting work usually happens **between** those categories.
+I don't use AI as decoration. **The useful question is always what the system can do better because AI is there.**
 
 ---
 
-## / 02 — THE STACK IS A TOOLBOX, NOT AN IDENTITY
-
-<div align="center">
-
-`ChatGPT` `Claude` `Gemini` `Cursor` `Trae` `Krea` `Stitch`
-
-`TypeScript` `JavaScript` `React` `Vite` `Node.js` `Express` `MongoDB`
-
-`GSAP` `Framer Motion` `Tailwind CSS` `Swiper` `Figma`
-
-`Docker` `AWS` `Git` `GitHub Actions` `Jenkins` `Linux` `Kubernetes`
-
-</div>
-
-I don't collect technologies for the sake of collecting them.  
-I reach for whatever lets me **think, prototype, test or ship faster**.
-
----
-
-## / 03 — SELECTED BUILDS
-
-<table>
-<tr><td width="50%">
+## / 01 — SELECTED SYSTEMS
 
 ### AI RECRUITER INTELLIGENCE SYSTEM
 
-A GenAI-driven recruitment experiment exploring how candidate information, reasoning and workflow automation can work together.
+A GenAI hiring workflow that moves beyond simple resume parsing.
 
-`GENAI` `SAAS` `AUTOMATION`
+```text
+RESUME
+  ↓
+PARSING
+  ↓
+SKILL MATCHING
+  ↓
+PROFILE RISK CHECK
+  ↓
+HIRING DECISION
+  ↓
+INTERVIEW GENERATION
+```
 
-<a href="https://github.com/Aniket28-4L/AI-Recruiter-Intelligence-System-GenAI-SaaS-">VIEW SYSTEM →</a>
+Built as a full-stack prototype with React, Node.js, Express, OpenRouter and a multi-agent LLM pipeline. The system produces structured outputs instead of treating an LLM like a chat box.
 
-</td><td width="50%">
+**Engineering focus:** orchestration · prompt chaining · structured JSON · decision workflows · full-stack integration
+
+[View repository →](https://github.com/Aniket28-4L/AI-Recruiter-Intelligence-System-GenAI-SaaS-)
+
+---
 
 ### AI OPS COPILOT
 
-An exploration of AI closer to operational workflows — turning natural-language intent into useful actions and information.
+An AI workflow system designed around **intent → planning → execution → memory** rather than one-shot prompting.
 
-`AI` `AGENTS` `DEVOPS`
+```text
+USER INPUT
+    ↓
+INTENT
+    ↓
+PLAN
+    ↓
+EXECUTE ──→ EMAIL / TASK / RISK
+    ↓
+MEMORY
+    ↓
+STRUCTURED RESULT
+```
 
-<a href="https://github.com/Aniket28-4L/AI-Ops-Copilot">VIEW SYSTEM →</a>
+Built with React, Node.js, Express and LLM APIs, with multi-user/session separation and an execution layer for turning requests into useful actions.
 
-</td></tr>
-<tr><td>
+**Engineering focus:** agent orchestration · API design · memory · sessions · automation
+
+[View repository →](https://github.com/Aniket28-4L/AI-Ops-Copilot)
+
+---
 
 ### AG MAKEUP STUDIO
 
-A cinematic client-facing web experience combining motion, video, CMS architecture and art direction.
+A production-oriented client website where engineering, CMS architecture and visual design have to work together.
 
-`REACT` `SANITY` `GSAP` `MOTION`
+**React · Vite · Sanity · GSAP · Framer Motion · responsive UI · video · deployment**
 
-<a href="https://github.com/Aniket28-4L/AGMAKESTUDIO">VIEW BUILD →</a>
+The interesting part isn't the animation. It's making a visually ambitious site remain maintainable, CMS-driven and usable across devices.
 
-</td><td>
-
-### GEN-AI PORTFOLIO
-
-An ongoing experiment in AI-assisted development and highly intentional digital experience design.
-
-`REACT` `TYPESCRIPT` `AI`
-
-<a href="https://github.com/Aniket28-4L/Gen-AI-Portfolio">VIEW BUILD →</a>
-
-</td></tr>
-</table>
+[View repository →](https://github.com/Aniket28-4L/AGMAKESTUDIO)
 
 ---
 
-<div align="center">
-<img src="./assets/loop.svg" alt="Animated engineering loop" width="100%" />
-</div>
+### INFRASTRUCTURE & DELIVERY
 
-## / 04 — HOW I APPROACH AI
-
-**AI is leverage. It isn't the thinking.**
-
-I use models to explore, prototype, debug, research, generate and accelerate — but I want to understand the system underneath the output.
-
-When I build an AI workflow, I care about things like:
-
-- What is the model actually responsible for?
-- Where does deterministic software make more sense?
-- What information does the system need at each step?
-- Can the behaviour be inspected and improved?
-- What happens when the happy path disappears?
-
-The goal isn't **"add AI."**
-
-The goal is **better systems.**
-
----
-
-## / 05 — I ALSO CARE ABOUT THE SCREEN
-
-A technically correct product can still feel unfinished.
-
-I enjoy the other layer: **hierarchy, pacing, motion, typography, composition, transitions, feedback and restraint.**
-
-Motion should communicate state.  
-Animation should have a reason.  
-Visual polish should survive without gimmicks.
-
-I'm especially interested in interfaces that feel **engineered rather than decorated**.
-
----
-
-## / 06 — EXPERIMENT LOG
+I also work on the less glamorous part of software: **getting it to run reliably.**
 
 ```text
-047 / Can an AI agent remove the boring part?
-046 / How much motion is too much?
-045 / Can a CMS disappear completely into the experience?
-044 / What happens when AI enters the development loop?
-043 / Why can a simpler interface feel more sophisticated?
-042 / Can automation solve the problem before software has to?
-041 / What makes an interaction feel inevitable instead of flashy?
-040 / Where should an AI system stop and deterministic code begin?
+CODE
+  ↓
+GIT
+  ↓
+GITHUB
+  ↓
+CI / CD
+  ↓
+DOCKER
+  ↓
+AWS / SERVER
+  ↓
+DEPLOYED SOFTWARE
 ```
 
-**The experiments change. The curiosity doesn't.**
+Hands-on work includes GitHub Actions, Jenkins, Docker, Linux, AWS EC2/S3 and infrastructure-oriented projects.
 
 ---
 
-## / 07 — BUILD PHILOSOPHY
+## / 02 — HOW I USE AI
 
-| PRINCIPLE | WHAT IT MEANS |
-|---|---|
-| **01 / START WITH THE PROBLEM** | Don't begin with a framework because it is fashionable. |
-| **02 / MAKE THE FIRST VERSION FAST** | Working software creates better questions than perfect plans. |
-| **03 / KEEP THE SYSTEM LEGIBLE** | If I can't explain what is happening, I probably haven't finished building it. |
-| **04 / DESIGN IS PART OF ENGINEERING** | A product's behaviour and appearance are both part of the experience. |
-| **05 / STRESS THE HAPPY PATH** | Break things deliberately. Surprises teach quickly. |
-| **06 / SHIP THE LEARNING** | Every build should leave behind something I understand better. |
+AI is most useful to me when it becomes part of an engineering loop.
+
+**Research → model → prototype → inspect → test → debug → automate → ship**
+
+I use models for:
+
+- exploring unfamiliar APIs and systems
+- generating and reviewing implementation ideas
+- debugging and understanding failures
+- building structured LLM workflows
+- automating repetitive knowledge work
+- accelerating frontend and backend development
+
+But the final system still needs to be understandable without saying **"the AI did it."**
 
 ---
 
-## / 08 — THE DISTRACTION LOOP
+## / 03 — ENGINEERING SIGNALS
+
+### I care about the boundary between AI and normal software.
+
+Not every problem needs an agent.
+
+Sometimes the right answer is:
 
 ```text
-build something
-      ↓
-find a new model / API / idea
-      ↓
-"could this automate it?"
-      ↓
-prototype it
-      ↓
-break it
-      ↓
-understand why
-      ↓
-accidentally build a second thing
-      ↓
-repeat
+if / else
+API
+DATABASE
+QUEUE
+CACHE
+VALIDATION
+CI PIPELINE
 ```
 
-This is less of a productivity problem than it sounds.
+Sometimes it is:
 
-Most of my useful work has started with **"I wonder if..."**
+```text
+MODEL
+  ↓
+TOOL
+  ↓
+STRUCTURED OUTPUT
+  ↓
+DETERMINISTIC CODE
+```
+
+Good engineering is knowing which one to use — and where to draw the line.
 
 ---
 
-## / 09 — CURRENT STATE
+## / 04 — THINGS I'VE LEARNED BY BREAKING THEM
+
+Real projects have taught me more than clean demos ever could.
+
+- Environment variables can make a build work locally and fail in production.
+- A deployment isn't finished just because the platform says **deployed**.
+- Client-side animation libraries need lifecycle cleanup, especially under React development behaviour.
+- CMS-driven applications need the production domain and runtime configuration treated as first-class concerns.
+- Asset loading matters: the wrong preload target can quietly create unnecessary downloads.
+- The fastest way to understand a system is often to deliberately break the happy path.
+
+These are the problems I actually enjoy solving.
+
+---
+
+## / 05 — TOOLBOX
+
+**Languages & Runtime**  
+`TypeScript` `JavaScript` `Node.js` `Java` `PHP`
+
+**Frontend**  
+`React` `Vite` `Angular` `HTML` `CSS` `Tailwind CSS` `GSAP` `Framer Motion`
+
+**Backend & Data**  
+`Express` `MongoDB` `MySQL` `REST APIs`
+
+**AI**  
+`LLMs` `GenAI` `Agents` `Prompt Engineering` `Structured Outputs` `AI-assisted Development`
+
+**DevOps & Cloud**  
+`Git` `GitHub Actions` `Jenkins` `Docker` `AWS` `Linux` `CI/CD` `Kubernetes`
+
+**Tools I work with**  
+`ChatGPT` `Claude` `Gemini` `Cursor` `Trae` `Krea` `Stitch`
+
+---
+
+## / 06 — BUILDING STYLE
+
+```text
+01  Understand the problem
+02  Reduce it to a system
+03  Build the smallest useful version
+04  Test the assumptions
+05  Break the weak parts
+06  Make the behaviour legible
+07  Ship
+08  Improve from reality
+```
+
+I prefer **working systems over impressive claims**.
+
+I also care about the interface. A product can have solid architecture and still be frustrating to use. Good software should make both sides — the system and the experience — feel intentional.
+
+---
+
+## / 07 — CURRENT VECTOR
+
+```text
+AI
+ │
+ ├── LLM applications
+ ├── Agent workflows
+ ├── Automation
+ │
+SOFTWARE
+ │
+ ├── Full-stack applications
+ ├── APIs & data
+ └── Interactive interfaces
+ │
+SYSTEMS
+ │
+ ├── Containers
+ ├── CI/CD
+ ├── Cloud
+ └── Deployment
+```
+
+I'm interested in the overlap:
+
+**AI × Software × Automation × Infrastructure × Experience**
+
+---
+
+## / 08 — OPEN SOURCE / GITHUB
+
+This profile is a working lab, not a collection of polished screenshots.
+
+The repositories here include experiments, full-stack applications, AI prototypes, DevOps work and older projects that show how my technical range has evolved.
+
+[Explore all repositories →](https://github.com/Aniket28-4L?tab=repositories)
+
+---
 
 <div align="center">
 
-`BUILDING █████████░` &nbsp;&nbsp; `EXPERIMENTING ██████████`  
-`LEARNING ██████████` &nbsp;&nbsp; `SHIPPING ████████░░`
+### BUILD · TEST · BREAK · DEBUG · SHIP
 
-<br/><br/>
-
-**CURRENT VECTOR**  
-AI × Software × Automation × Creative Technology
-
-**OPERATING PRINCIPLE**  
-<em>Don't pretend to know everything. Learn fast enough to build anyway.</em>
-
-</div>
-
----
-
-## / 10 — OUTSIDE THE CODE
-
-I also work on **client websites, digital experiences, branding and marketing-oriented projects**.
-
-The same principle applies: understand the actual problem, then make the result feel intentional.
-
-No unnecessary complexity.  
-No decorative technology.  
-No "AI" pasted onto things that don't need it.
-
----
-
-## / 11 — SIGNALS
-
-<div align="center">
-
-<a href="https://github.com/Aniket28-4L?tab=repositories">REPOSITORIES</a> &nbsp; · &nbsp; <a href="https://github.com/Aniket28-4L">GITHUB</a>
-
-<br/><br/>
-
-<sub>ANIKET PANDEY / AI + SOFTWARE + CREATIVE ENGINEERING</sub>
-
-<br/>
-
-<code>observe → question → construct → stress-test → refine → ship</code>
+<sub>ANIKET PANDEY / AI + SOFTWARE + SYSTEMS</sub>
 
 </div>
