@@ -1,190 +1,269 @@
 <div align="center">
-
-<img src="./assets/hero.svg" alt="Aniket Pandey — AI, software and experimentation" width="100%" />
-
+<img src="./assets/hero.svg" alt="Aniket Pandey — AI creative engineer" width="100%" />
 </div>
 
-## / ABOUT
+<br/>
 
-I'm a curious builder working somewhere between **AI, software, automation, and digital experiences**.
+<div align="center">
+<code>AI SYSTEMS</code> &nbsp;·&nbsp; <code>SOFTWARE</code> &nbsp;·&nbsp; <code>CREATIVE ENGINEERING</code> &nbsp;·&nbsp; <code>MOTION</code>
+</div>
 
-I don't really fit into one box yet — and I'm okay with that.
+<br/>
 
-Some days I'm building with an LLM. Some days I'm deep in React. Some days I'm wiring up an automation, fixing a deployment, or making a website feel less like a website.
+<div align="center">
+<img src="./assets/system.svg" alt="Animated system map" width="100%" />
+</div>
 
-Most of what I know has come from trying things, breaking things, and then figuring out why they broke.
+## / 00 — THE SHORT VERSION
 
-> **Build first. Understand deeper. Repeat.**
+I'm **Aniket Pandey** — a builder working at the intersection of **AI, software, automation and visual experience**.
 
----
+I like systems that are technically serious but don't feel lifeless.
 
-## / CURRENTLY MESSING WITH
+That means I care about the model, the architecture, the interface, the interaction, the deployment — and the tiny moment where someone uses the thing and thinks **"yeah, this feels considered."**
 
-```text
-AI
-├── LLM workflows & practical GenAI
-├── AI-assisted development
-├── Agents & tool-use experiments
-└── Finding useful problems for AI to solve
+I'm not interested in pretending one title explains everything I do.
 
-SOFTWARE
-├── React / TypeScript / JavaScript
-├── Node.js / APIs / databases
-├── Interactive web experiences
-└── Building things end-to-end
-
-SYSTEMS
-├── Docker
-├── AWS
-├── GitHub Actions / CI-CD
-├── Linux
-└── Learning more about infrastructure as I go
-
-CREATIVE
-├── Digital experiences
-├── Motion & interaction
-├── Branding / marketing experiments
-└── Client work
-```
+**I build. I experiment. I break things. I understand them. Then I make them better.**
 
 ---
 
-## / THE TOOLBOX
+## / 01 — ENGINEERING, BUT WITH A POINT OF VIEW
 
-### AI
-`ChatGPT` `Claude` `Gemini` `Krea` `Cursor` `Trae` `Stitch`
+<table>
+<tr><td width="50%">
 
-### Build
-`JavaScript` `TypeScript` `React` `Vite` `Node.js` `Express` `MongoDB` `HTML/CSS`
+**INTELLIGENCE**  
+LLMs · GenAI · agents · tool use · AI-assisted development · automation
 
-### Motion & UI
+</td><td width="50%">
+
+**SOFTWARE**  
+TypeScript · JavaScript · React · Vite · Node.js · APIs · MongoDB
+
+</td></tr>
+<tr><td>
+
+**SYSTEMS**  
+Docker · AWS · Linux · GitHub Actions · Jenkins · CI/CD · Kubernetes
+
+</td><td>
+
+**EXPERIENCE**  
+GSAP · Framer Motion · Tailwind · interactive interfaces · digital experiences
+
+</td></tr>
+</table>
+
+The interesting work usually happens **between** those categories.
+
+---
+
+## / 02 — THE STACK IS A TOOLBOX, NOT AN IDENTITY
+
+<div align="center">
+
+`ChatGPT` `Claude` `Gemini` `Cursor` `Trae` `Krea` `Stitch`
+
+`TypeScript` `JavaScript` `React` `Vite` `Node.js` `Express` `MongoDB`
+
 `GSAP` `Framer Motion` `Tailwind CSS` `Swiper` `Figma`
 
-### Systems
-`Docker` `AWS` `Git` `GitHub Actions` `Jenkins` `CI/CD` `Linux` `Kubernetes`
+`Docker` `AWS` `Git` `GitHub Actions` `Jenkins` `Linux` `Kubernetes`
+
+</div>
+
+I don't collect technologies for the sake of collecting them.  
+I reach for whatever lets me **think, prototype, test or ship faster**.
 
 ---
 
-## / THINGS I'VE BUILT
+## / 03 — SELECTED BUILDS
 
-### `AI Recruiter Intelligence System`
-An experiment around using GenAI to make parts of the recruitment workflow more intelligent — from understanding candidate information to helping with decisions and workflows.
+<table>
+<tr><td width="50%">
 
-**AI · GenAI · SaaS · Automation**
+### AI RECRUITER INTELLIGENCE SYSTEM
 
-### `AI Ops Copilot`
-A project exploring how AI can sit closer to operational workflows and turn natural-language intent into useful actions and information.
+A GenAI-driven recruitment experiment exploring how candidate information, reasoning and workflow automation can work together.
 
-**AI · Agents · DevOps · Automation**
+`GENAI` `SAAS` `AUTOMATION`
 
-### `AG Makeup Studio`
-A cinematic bridal-studio website built as a real client-facing digital experience — with motion, video, CMS integration, and a strong visual identity.
+<a href="https://github.com/Aniket28-4L/AI-Recruiter-Intelligence-System-GenAI-SaaS-">VIEW SYSTEM →</a>
 
-**React · Vite · Sanity · Framer Motion · GSAP**
+</td><td width="50%">
 
-### `Gen-AI Portfolio`
-An ongoing experiment in combining AI-assisted development with a highly intentional personal web experience.
+### AI OPS COPILOT
 
-**React · TypeScript · AI-assisted development**
+An exploration of AI closer to operational workflows — turning natural-language intent into useful actions and information.
+
+`AI` `AGENTS` `DEVOPS`
+
+<a href="https://github.com/Aniket28-4L/AI-Ops-Copilot">VIEW SYSTEM →</a>
+
+</td></tr>
+<tr><td>
+
+### AG MAKEUP STUDIO
+
+A cinematic client-facing web experience combining motion, video, CMS architecture and art direction.
+
+`REACT` `SANITY` `GSAP` `MOTION`
+
+<a href="https://github.com/Aniket28-4L/AGMAKESTUDIO">VIEW BUILD →</a>
+
+</td><td>
+
+### GEN-AI PORTFOLIO
+
+An ongoing experiment in AI-assisted development and highly intentional digital experience design.
+
+`REACT` `TYPESCRIPT` `AI`
+
+<a href="https://github.com/Aniket28-4L/Gen-AI-Portfolio">VIEW BUILD →</a>
+
+</td></tr>
+</table>
 
 ---
 
-## / EXPERIMENT LOG
+<div align="center">
+<img src="./assets/loop.svg" alt="Animated engineering loop" width="100%" />
+</div>
 
-I learn better by making experiments than by collecting tutorials.
+## / 04 — HOW I APPROACH AI
+
+**AI is leverage. It isn't the thinking.**
+
+I use models to explore, prototype, debug, research, generate and accelerate — but I want to understand the system underneath the output.
+
+When I build an AI workflow, I care about things like:
+
+- What is the model actually responsible for?
+- Where does deterministic software make more sense?
+- What information does the system need at each step?
+- Can the behaviour be inspected and improved?
+- What happens when the happy path disappears?
+
+The goal isn't **"add AI."**
+
+The goal is **better systems.**
+
+---
+
+## / 05 — I ALSO CARE ABOUT THE SCREEN
+
+A technically correct product can still feel unfinished.
+
+I enjoy the other layer: **hierarchy, pacing, motion, typography, composition, transitions, feedback and restraint.**
+
+Motion should communicate state.  
+Animation should have a reason.  
+Visual polish should survive without gimmicks.
+
+I'm especially interested in interfaces that feel **engineered rather than decorated**.
+
+---
+
+## / 06 — EXPERIMENT LOG
 
 ```text
-#047  Can an AI agent actually remove the boring part?
-#046  How much motion is too much?
-#045  Can a CMS stay invisible to the final experience?
-#044  What happens when AI becomes part of the development loop?
-#043  Why does a simple website sometimes feel better than a complicated one?
-#042  Can automation solve the problem before software has to?
+047 / Can an AI agent remove the boring part?
+046 / How much motion is too much?
+045 / Can a CMS disappear completely into the experience?
+044 / What happens when AI enters the development loop?
+043 / Why can a simpler interface feel more sophisticated?
+042 / Can automation solve the problem before software has to?
+041 / What makes an interaction feel inevitable instead of flashy?
+040 / Where should an AI system stop and deterministic code begin?
 ```
 
-The numbers aren't important.
-
-The habit is.
+**The experiments change. The curiosity doesn't.**
 
 ---
 
-## / THINGS I KEEP GETTING DISTRACTED BY
+## / 07 — BUILD PHILOSOPHY
 
-I start by trying to build one thing.
-
-Then I discover a new AI tool.
-
-Then I wonder if the tool can automate the thing I'm building.
-
-Then I try to automate the automation.
-
-Somewhere between the third API call and a broken deployment, I usually learn something useful.
-
-So I keep doing it.
-
----
-
-## / HOW I LIKE TO BUILD
-
-**01 — Start with the problem.**  
-Not the tool. Not the framework. The problem.
-
-**02 — Prototype quickly.**  
-A rough working thing teaches more than a perfect idea sitting in a notebook.
-
-**03 — Use AI as leverage, not as a substitute for thinking.**  
-I want to understand what the system is doing, not just make it produce an answer.
-
-**04 — Make the experience count.**  
-If something is user-facing, I care about how it feels — not only whether it works.
-
-**05 — Break it. Fix it. Learn from it.**  
-A surprising amount of engineering happens here.
-
----
-
-## / WORKING WITH CLIENTS
-
-Alongside my own experiments, I work on **websites, digital experiences, branding and marketing-oriented projects** for clients.
-
-The interesting part is usually the intersection: understanding what someone actually needs, then turning it into something that can exist in the real world.
-
-No giant agency vocabulary required.
-
-Just good work.
-
----
-
-## / RIGHT NOW
-
-| STATUS | SIGNAL |
+| PRINCIPLE | WHAT IT MEANS |
 |---|---|
-| BUILDING | `████████░░` |
-| EXPERIMENTING | `█████████░` |
-| LEARNING | `██████████` |
-| SHIPPING | `███████░░░` |
-| FIGURING OUT WHAT'S NEXT | `██████████` |
-
-**Current direction:** AI + software + automation + creative technology.
-
-**Current rule:** Don't pretend to know everything. Learn fast enough to build anyway.
+| **01 / START WITH THE PROBLEM** | Don't begin with a framework because it is fashionable. |
+| **02 / MAKE THE FIRST VERSION FAST** | Working software creates better questions than perfect plans. |
+| **03 / KEEP THE SYSTEM LEGIBLE** | If I can't explain what is happening, I probably haven't finished building it. |
+| **04 / DESIGN IS PART OF ENGINEERING** | A product's behaviour and appearance are both part of the experience. |
+| **05 / STRESS THE HAPPY PATH** | Break things deliberately. Surprises teach quickly. |
+| **06 / SHIP THE LEARNING** | Every build should leave behind something I understand better. |
 
 ---
 
-## / FIND ME
+## / 08 — THE DISTRACTION LOOP
+
+```text
+build something
+      ↓
+find a new model / API / idea
+      ↓
+"could this automate it?"
+      ↓
+prototype it
+      ↓
+break it
+      ↓
+understand why
+      ↓
+accidentally build a second thing
+      ↓
+repeat
+```
+
+This is less of a productivity problem than it sounds.
+
+Most of my useful work has started with **"I wonder if..."**
+
+---
+
+## / 09 — CURRENT STATE
 
 <div align="center">
 
-**If you're building something interesting, I'd probably like to hear about it.**
+`BUILDING █████████░` &nbsp;&nbsp; `EXPERIMENTING ██████████`  
+`LEARNING ██████████` &nbsp;&nbsp; `SHIPPING ████████░░`
 
-[GitHub](https://github.com/Aniket28-4L)
+<br/><br/>
+
+**CURRENT VECTOR**  
+AI × Software × Automation × Creative Technology
+
+**OPERATING PRINCIPLE**  
+<em>Don't pretend to know everything. Learn fast enough to build anyway.</em>
 
 </div>
 
 ---
 
+## / 10 — OUTSIDE THE CODE
+
+I also work on **client websites, digital experiences, branding and marketing-oriented projects**.
+
+The same principle applies: understand the actual problem, then make the result feel intentional.
+
+No unnecessary complexity.  
+No decorative technology.  
+No "AI" pasted onto things that don't need it.
+
+---
+
+## / 11 — SIGNALS
+
 <div align="center">
 
-`curious → build → break → understand → ship → repeat`
+<a href="https://github.com/Aniket28-4L?tab=repositories">REPOSITORIES</a> &nbsp; · &nbsp; <a href="https://github.com/Aniket28-4L">GITHUB</a>
+
+<br/><br/>
+
+<sub>ANIKET PANDEY / AI + SOFTWARE + CREATIVE ENGINEERING</sub>
+
+<br/>
+
+<code>observe → question → construct → stress-test → refine → ship</code>
 
 </div>
