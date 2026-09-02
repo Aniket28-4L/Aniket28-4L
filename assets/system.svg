@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250"><rect width="1200" height="250" fill="#f7f5ef"/><g stroke="#171717" opacity=".12"><path d="M0 50H1200M0 100H1200M0 150H1200M0 200H1200"/><path d="M100 0V250M200 0V250M300 0V250M400 0V250M500 0V250M600 0V250M700 0V250M800 0V250M900 0V250M1000 0V250M1100 0V250"/></g><g fill="none" stroke="#171717" stroke-width="1.5"><path d="M120 180C250 45 350 45 480 145S710 225 820 80S1030 45 1100 120"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="M120 180C250 45 350 45 480 145S710 225 820 80S1030 45 1100 120;M120 120C250 220 350 190 480 70S710 30 820 170S1030 210 1100 90;M120 180C250 45 350 45 480 145S710 225 820 80S1030 45 1100 120"/></path><circle cx="120" cy="180" r="5" fill="#d4642a"><animate attributeName="cx" values="120;1100;120" dur="7s" repeatCount="indefinite"/><animate attributeName="cy" values="180;120;180" dur="7s" repeatCount="indefinite"/></circle><circle cx="820" cy="80" r="4" fill="#d4642a"><animate attributeName="r" values="3;8;3" dur="2s" repeatCount="indefinite"/></circle></g><text x="45" y="42" font-family="Arial" font-size="12" letter-spacing="4" fill="#555">SYSTEM MAP / 001</text><text x="45" y="225" font-family="monospace" font-size="12" fill="#555">INPUT → REASON → BUILD → OBSERVE → ITERATE</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+<rect width="1200" height="300" fill="#f7f5ef"/>
+<g stroke="#171717" opacity=".08"><path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/><path d="M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300M600 0V300M700 0V300M800 0V300M900 0V300M1000 0V300M1100 0V300"/></g>
+<text x="42" y="40" font-family="Arial,sans-serif" font-size="11" letter-spacing="4" fill="#555">SYSTEM MAP / 001 — REAL BUILD LOOP</text>
+<g font-family="Arial,sans-serif" font-size="12" fill="#171717">
+<rect x="42" y="88" width="160" height="76" fill="#fff" stroke="#171717"/><text x="64" y="118">PROBLEM</text><text x="64" y="143" fill="#777">what matters?</text>
+<rect x="240" y="88" width="160" height="76" fill="#fff" stroke="#171717"/><text x="262" y="118">MODEL</text><text x="262" y="143" fill="#777">system + data</text>
+<rect x="438" y="88" width="160" height="76" fill="#fff" stroke="#171717"/><text x="438" y="118" x2="0">BUILD</text><text x="460" y="143" fill="#777">code + interface</text>
+<rect x="636" y="88" width="160" height="76" fill="#fff" stroke="#171717"/><text x="658" y="118">TEST</text><text x="658" y="143" fill="#777">break assumptions</text>
+<rect x="834" y="88" width="160" height="76" fill="#fff" stroke="#171717"/><text x="856" y="118">SHIP</text><text x="856" y="143" fill="#777">real users</text>
+<rect x="1032" y="88" width="126" height="76" fill="#171717" stroke="#171717"/><text x="1054" y="118" fill="#fff">LEARN</text><text x="1054" y="143" fill="#d4642a">iterate</text>
+</g>
+<g stroke="#d4642a" stroke-width="2"><path d="M202 126H240M400 126H438M598 126H636M796 126H834M994 126H1032"/></g>
+<text x="42" y="218" font-family="monospace" font-size="11" fill="#555">AI can sit inside the system — but the system still needs architecture, validation and engineering.</text>
+</svg>
