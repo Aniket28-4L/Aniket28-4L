@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240">
+<rect width="1200" height="240" fill="#171717"/>
+<g stroke="#f7f5ef" opacity=".09"><path d="M0 60H1200M0 120H1200M0 180H1200"/><path d="M100 0V240M200 0V240M300 0V240M400 0V240M500 0V240M600 0V240M700 0V240M800 0V240M900 0V240M1000 0V240M1100 0V240"/></g>
+<text x="42" y="40" font-family="Arial,sans-serif" font-size="11" letter-spacing="4" fill="#f7f5ef">DELIVERY / REAL SOFTWARE</text>
+<g font-family="Arial,sans-serif" font-size="12">
+<g fill="#171717" stroke="#f7f5ef"><rect x="42" y="84" width="130" height="60"/><rect x="212" y="84" width="130" height="60"/><rect x="382" y="84" width="130" height="60"/><rect x="552" y="84" width="130" height="60"/><rect x="722" y="84" width="130" height="60"/><rect x="892" y="84" width="130" height="60"/><rect x="1062" y="84" width="96" height="60"/></g>
+<g fill="#f7f5ef"><text x="66" y="119">CODE</text><text x="237" y="119">GIT</text><text x="407" y="119">CI / CD</text><text x="577" y="119">DOCKER</text><text x="747" y="119">AWS</text><text x="917" y="119">OBSERVE</text><text x="1083" y="119">SHIP</text></g></g>
+<g stroke="#d4642a" stroke-width="2"><path d="M172 114H212M342 114H382M512 114H552M682 114H722M852 114H892M1022 114H1062"/></g>
+<text x="42" y="192" font-family="monospace" font-size="11" fill="#aaa">commit → verify → package → deploy → inspect → improve</text>
+</svg>
