@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+<img src="./assets/profile-motion.gif" alt="Remotion animation showing Aniket's AI systems and delivery pipelines" width="100%" />
+</div>
+
+<div align="center">
 
 `AI` &nbsp; `SOFTWARE` &nbsp; `SYSTEMS` &nbsp; `CREATIVE TECHNOLOGY`
 
