@@ -2,7 +2,11 @@
   "private": true,
   "scripts": {
     "remotion:studio": "remotion studio remotion/index.tsx",
-    "remotion:render": "remotion render remotion/index.tsx ProfileMotion out/profile-motion.gif --codec=gif"
+    "remotion:render": "npm run remotion:render:ai && npm run remotion:render:delivery && npm run remotion:render:debug && npm run remotion:render:timeline",
+    "remotion:render:ai": "remotion render remotion/index.tsx AIArchitecture out/ai-architecture.gif --codec=gif --scale=0.8",
+    "remotion:render:delivery": "remotion render remotion/index.tsx DeliveryPipeline out/delivery-pipeline.gif --codec=gif --scale=0.8",
+    "remotion:render:debug": "remotion render remotion/index.tsx DebuggingLog out/debugging-log.gif --codec=gif --scale=0.8",
+    "remotion:render:timeline": "remotion render remotion/index.tsx BuildTimeline out/build-timeline.gif --codec=gif --scale=0.8"
   },
   "dependencies": {
     "@remotion/cli": "4.0.240",
