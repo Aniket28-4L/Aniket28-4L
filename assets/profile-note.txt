@@ -1,0 +1,1 @@
+Profile visual assets are intentionally authored as part of the README system.
