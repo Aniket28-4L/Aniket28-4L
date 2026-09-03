@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-<img src="./assets/profile-motion.gif" alt="Remotion animation showing Aniket's AI systems and delivery pipelines" width="100%" />
-</div>
-
-<div align="center">
 
 `AI` &nbsp; `SOFTWARE` &nbsp; `SYSTEMS` &nbsp; `CREATIVE TECHNOLOGY`
 
@@ -19,7 +15,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/profile-map.svg" alt="Aniket profile map" width="100%" />
+<img src="./assets/ai-architecture.gif" alt="Animated AI architecture: input, intent, plan, tools and memory" width="100%" />
 </div>
 
 <br/>
@@ -78,6 +74,8 @@ The work I care about is where a model has a defined job inside a larger archite
 - **AI Ops Copilot** — intent → planning → execution → memory → structured result.
 - **AI-assisted development** — using models to explore, debug, prototype and accelerate implementation while keeping the underlying system understandable.
 
+<br/>
+
 <div align="center">
 <img src="./assets/ai-pipeline.svg" alt="AI pipeline" width="100%" />
 </div>
@@ -89,7 +87,7 @@ The work I care about is where a model has a defined job inside a larger archite
 The stack is a means to an end.
 
 <div align="center">
-<img src="./assets/stack-grid.svg" alt="Aniket Pandey engineering stack" width="100%" />
+<img src="./assets/delivery-pipeline.gif" alt="Animated software delivery pipeline from code to Git, CI/CD, Docker and AWS" width="100%" />
 </div>
 
 I move between frontend, backend, AI integration and infrastructure depending on what the problem requires.
@@ -104,7 +102,7 @@ I move between frontend, backend, AI integration and infrastructure depending on
 ## 04 / THINGS I LEARNED BY BREAKING THEM
 
 <div align="center">
-<img src="./assets/engineering-log.svg" alt="Engineering lessons from real debugging" width="100%" />
+<img src="./assets/debugging-log.gif" alt="Animated engineering debugging log showing real failure patterns and root causes" width="100%" />
 </div>
 
 Some of the most useful engineering lessons came from bugs that looked completely unrelated to their real cause.
@@ -119,6 +117,10 @@ I like debugging because the answer usually teaches more than the bug itself.
 <br/>
 
 ## 05 / SELECTED BUILDS
+
+<div align="center">
+<img src="./assets/build-timeline.gif" alt="Animated timeline of Aniket's selected builds" width="100%" />
+</div>
 
 ### `AI-RECRUITER-INTELLIGENCE-SYSTEM`
 GenAI hiring workflow with candidate parsing, skill evaluation, suspicious-profile detection, hiring decisions and interview generation.
