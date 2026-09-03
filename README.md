@@ -1,296 +1,200 @@
 <div align="center">
-<img src="./assets/hero.svg" alt="Aniket Pandey — AI, software and creative engineering" width="100%" />
+<img src="./assets/hero.svg" alt="ANIKET PANDEY — AI, software, systems and creative technology" width="100%" />
+</div>
+
+<div align="center">
+
+`AI` &nbsp; `SOFTWARE` &nbsp; `SYSTEMS` &nbsp; `CREATIVE TECHNOLOGY`
+
+**I build things at the point where intelligent software, engineering systems and digital experience meet.**
+
+<a href="https://github.com/Aniket28-4L?tab=repositories">REPOSITORIES</a> · <a href="https://github.com/Aniket28-4L">GITHUB</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-<code>AI SYSTEMS</code> &nbsp;·&nbsp; <code>SOFTWARE</code> &nbsp;·&nbsp; <code>CREATIVE ENGINEERING</code> &nbsp;·&nbsp; <code>SYSTEMS</code>
+<img src="./assets/profile-map.svg" alt="Aniket profile map" width="100%" />
 </div>
 
 <br/>
 
-<div align="center">
-<img src="./assets/system.svg" alt="Real engineering system map" width="100%" />
-</div>
+## 01 / WHAT I WORK ON
 
-## / 00 — THE SHORT VERSION
+I don't really fit into one clean category.
 
-I'm **Aniket Pandey** — a builder working at the intersection of **AI, software, automation and visual experience**.
+I build **AI workflows, full-stack software, automation, deployment systems and highly intentional interfaces**. The interesting part is usually the connection between them.
 
-I like systems that are technically serious but don't feel lifeless.
+```text
+problem
+   ↓
+understand the system
+   ↓
+prototype quickly
+   ↓
+make the behaviour inspectable
+   ↓
+build the interface
+   ↓
+ship it
+   ↓
+find what breaks
+   ↓
+fix what actually matters
+```
 
-That means I care about the model, the architecture, the interface, the interaction, the deployment — and the tiny moment where someone uses the thing and thinks **"yeah, this feels considered."**
-
-I'm not interested in pretending one title explains everything I do.
-
-**I build. I experiment. I break things. I understand them. Then I make them better.**
-
----
-
-## / 01 — ENGINEERING, BUT WITH A POINT OF VIEW
-
-<table>
-<tr><td width="50%">
-
-**INTELLIGENCE**  
-LLMs · GenAI · agents · tool use · AI-assisted development · automation
-
-</td><td width="50%">
-
-**SOFTWARE**  
-TypeScript · JavaScript · React · Vite · Node.js · APIs · MongoDB
-
-</td></tr>
-<tr><td>
-
-**SYSTEMS**  
-Docker · AWS · Linux · GitHub Actions · Jenkins · CI/CD · Kubernetes
-
-</td><td>
-
-**EXPERIENCE**  
-GSAP · Framer Motion · Tailwind · interactive interfaces · digital experiences
-
-</td></tr>
-</table>
-
-The interesting work usually happens **between** those categories.
+<br/>
 
 <div align="center">
-<img src="./assets/ai-pipeline.svg" alt="AI system pipeline: input, parsing, reasoning, validation, action and result" width="100%" />
+<img src="./assets/work-atlas.svg" alt="Selected systems built by Aniket Pandey" width="100%" />
 </div>
 
----
+<br/>
 
-## / 02 — THE TOOLBOX
+## 02 / THE AI LAYER
+
+I use AI as part of software systems — **not as a substitute for understanding them.**
+
+The work I care about is where a model has a defined job inside a larger architecture:
+
+| LAYER | QUESTION |
+|---|---|
+| **MODEL** | What is the model actually good at? |
+| **CONTEXT** | What information does it need? |
+| **ORCHESTRATION** | What should happen before and after the model? |
+| **TOOLS** | What can the system actually do? |
+| **VALIDATION** | How do we know the result is usable? |
+| **MEMORY** | What should persist between interactions? |
+| **FAILURE** | What happens when the model is wrong? |
+
+### A few real experiments
+
+- **AI Recruiter Intelligence System** — multi-stage candidate analysis, structured outputs, risk detection and interview generation.
+- **AI Ops Copilot** — intent → planning → execution → memory → structured result.
+- **AI-assisted development** — using models to explore, debug, prototype and accelerate implementation while keeping the underlying system understandable.
 
 <div align="center">
-
-`ChatGPT` `Claude` `Gemini` `Cursor` `Trae` `Krea` `Stitch`
-
-`TypeScript` `JavaScript` `React` `Vite` `Node.js` `Express` `MongoDB`
-
-`GSAP` `Framer Motion` `Tailwind CSS` `Swiper` `Figma`
-
-`Docker` `AWS` `Git` `GitHub Actions` `Jenkins` `Linux` `Kubernetes`
-
+<img src="./assets/ai-pipeline.svg" alt="AI pipeline" width="100%" />
 </div>
 
-I don't collect technologies for the sake of collecting them.  
-I reach for whatever lets me **think, prototype, test or ship faster**.
+<br/>
 
----
+## 03 / ENGINEERING SIGNAL
 
-## / 03 — THINGS I'VE ACTUALLY BUILT
+The stack is a means to an end.
 
-<table>
-<tr><td width="50%">
+<div align="center">
+<img src="./assets/stack-grid.svg" alt="Aniket Pandey engineering stack" width="100%" />
+</div>
 
-### AI RECRUITER INTELLIGENCE SYSTEM
+I move between frontend, backend, AI integration and infrastructure depending on what the problem requires.
 
-A GenAI hiring workflow that parses candidate information, evaluates skills against a role, checks for suspicious claims, produces a hiring decision and generates role-specific interview questions.
+**Frontend** → React · TypeScript · Vite · Tailwind · GSAP · Framer Motion  
+**Backend** → Node.js · Express · APIs · MongoDB · MySQL  
+**Infrastructure** → Docker · AWS · Linux · GitHub Actions · Jenkins · CI/CD · Kubernetes  
+**AI** → LLM APIs · agents · structured outputs · prompt engineering · automation
+
+<br/>
+
+## 04 / THINGS I LEARNED BY BREAKING THEM
+
+<div align="center">
+<img src="./assets/engineering-log.svg" alt="Engineering lessons from real debugging" width="100%" />
+</div>
+
+Some of the most useful engineering lessons came from bugs that looked completely unrelated to their real cause.
+
+- A scroll problem turned out to be a **lifecycle / event-listener problem**.
+- A performance problem started with **two different video formats being downloaded**.
+- A deployment worked locally but failed because **production configuration is part of the application**.
+- A CMS integration issue required tracing the entire path from **source → build → runtime**.
+
+I like debugging because the answer usually teaches more than the bug itself.
+
+<br/>
+
+## 05 / SELECTED BUILDS
+
+### `AI-RECRUITER-INTELLIGENCE-SYSTEM`
+GenAI hiring workflow with candidate parsing, skill evaluation, suspicious-profile detection, hiring decisions and interview generation.
 
 `REACT` `NODE` `EXPRESS` `OPENROUTER` `MULTI-AGENT`
 
-<a href="https://github.com/Aniket28-4L/AI-Recruiter-Intelligence-System-GenAI-SaaS-">VIEW SYSTEM →</a>
+<a href="https://github.com/Aniket28-4L/AI-Recruiter-Intelligence-System-GenAI-SaaS-">VIEW REPOSITORY →</a>
 
-</td><td width="50%">
+---
 
-### AI OPS COPILOT
-
-A multi-agent workflow built around intent detection, task planning, execution and memory — turning natural-language requests into structured business actions.
+### `AI-OPS-COPILOT`
+An action-oriented AI system built around intent detection, planning, execution agents and memory.
 
 `REACT` `NODE` `EXPRESS` `LLM APIs` `MEMORY`
 
-<a href="https://github.com/Aniket28-4L/AI-Ops-Copilot">VIEW SYSTEM →</a>
+<a href="https://github.com/Aniket28-4L/AI-Ops-Copilot">VIEW REPOSITORY →</a>
 
-</td></tr>
-<tr><td>
+---
 
-### AG MAKEUP STUDIO
+### `AGMAKESTUDIO`
+A production client website combining motion, video, CMS architecture, responsive engineering and visual direction.
 
-A cinematic client-facing web experience combining motion, video, CMS architecture, responsive engineering and art direction.
+`REACT` `SANITY` `GSAP` `FRAMER MOTION`
 
-`REACT` `SANITY` `GSAP` `MOTION`
+<a href="https://github.com/Aniket28-4L/AGMAKESTUDIO">VIEW REPOSITORY →</a>
 
-<a href="https://github.com/Aniket28-4L/AGMAKESTUDIO">VIEW BUILD →</a>
+---
 
-</td><td>
-
-### GEN-AI PORTFOLIO
-
-An ongoing experiment in AI-assisted development and highly intentional digital experience design.
+### `GEN-AI-PORTFOLIO`
+An ongoing experiment around AI-assisted development and digital experience design.
 
 `REACT` `TYPESCRIPT` `AI`
 
-<a href="https://github.com/Aniket28-4L/Gen-AI-Portfolio">VIEW BUILD →</a>
-
-</td></tr>
-</table>
-
-The point of these projects isn't that they contain AI.  
-It's that they explore **what happens when AI becomes part of an actual software system.**
-
----
-
-## / 04 — AI, WITHOUT THE THEATRE
-
-**AI is leverage. It isn't the thinking.**
-
-I use models to explore, prototype, debug, research, generate and accelerate — but I want to understand the system underneath the output.
-
-When I build an AI workflow, I care about:
-
-- what the model is actually responsible for
-- where deterministic software makes more sense
-- what information the system needs at each step
-- whether outputs can be validated and inspected
-- what happens when the happy path disappears
-
-The goal isn't **"add AI."**
-
-The goal is **better systems.**
-
-<div align="center">
-<img src="./assets/ai-pipeline.svg" alt="Structured AI workflow" width="100%" />
-</div>
-
----
-
-## / 05 — AI MEETS THE SCREEN
-
-A technically correct product can still feel unfinished.
-
-I enjoy the other layer: **hierarchy, pacing, motion, typography, composition, transitions, feedback and restraint.**
-
-Motion should communicate state.  
-Animation should have a reason.  
-Visual polish should survive without gimmicks.
-
-I'm especially interested in interfaces that feel **engineered rather than decorated**.
-
-<div align="center">
-<img src="./assets/experience.svg" alt="Interface engineering principles" width="100%" />
-</div>
-
----
-
-## / 06 — HOW THINGS ACTUALLY SHIP
-
-<div align="center">
-<img src="./assets/delivery.svg" alt="Software delivery pipeline from code to deployment" width="100%" />
-</div>
-
-The part of software I enjoy just as much as building the feature is figuring out **why it broke in production**.
-
-Git → CI/CD → containers → cloud → deployment → observation → iteration.
-
----
-
-## / 07 — EXPERIMENT LOG
-
-```text
-047 / Can an AI agent remove the boring part?
-046 / How much motion is too much?
-045 / Can a CMS disappear completely into the experience?
-044 / What happens when AI enters the development loop?
-043 / Why can a simpler interface feel more sophisticated?
-042 / Can automation solve the problem before software has to?
-041 / What makes an interaction feel inevitable instead of flashy?
-040 / Where should an AI system stop and deterministic code begin?
-```
-
-**The experiments change. The curiosity doesn't.**
-
----
-
-## / 08 — BUILD PHILOSOPHY
-
-| PRINCIPLE | WHAT IT MEANS |
-|---|---|
-| **01 / START WITH THE PROBLEM** | Don't begin with a framework because it is fashionable. |
-| **02 / MAKE THE FIRST VERSION FAST** | Working software creates better questions than perfect plans. |
-| **03 / KEEP THE SYSTEM LEGIBLE** | If I can't explain what is happening, I probably haven't finished building it. |
-| **04 / DESIGN IS PART OF ENGINEERING** | A product's behaviour and appearance are both part of the experience. |
-| **05 / STRESS THE HAPPY PATH** | Break things deliberately. Surprises teach quickly. |
-| **06 / SHIP THE LEARNING** | Every build should leave behind something I understand better. |
-
-<div align="center">
-<img src="./assets/loop.svg" alt="Engineering loop" width="100%" />
-</div>
-
----
-
-## / 09 — THE DISTRACTION LOOP
-
-```text
-build something
-      ↓
-find a new model / API / idea
-      ↓
-"could this automate it?"
-      ↓
-prototype it
-      ↓
-break it
-      ↓
-understand why
-      ↓
-accidentally build a second thing
-      ↓
-repeat
-```
-
-This is less of a productivity problem than it sounds.
-
-Most of my useful work has started with **"I wonder if..."**
-
----
-
-## / 10 — CURRENT STATE
-
-<div align="center">
-
-`BUILDING █████████░` &nbsp;&nbsp; `EXPERIMENTING ██████████`  
-`LEARNING ██████████` &nbsp;&nbsp; `SHIPPING ████████░░`
-
-<br/><br/>
-
-**CURRENT VECTOR**  
-AI × Software × Automation × Creative Technology
-
-**OPERATING PRINCIPLE**  
-<em>Don't pretend to know everything. Learn fast enough to build anyway.</em>
-
-</div>
-
----
-
-## / 11 — OUTSIDE THE CODE
-
-I also work on **client websites, digital experiences, branding and marketing-oriented projects**.
-
-The same principle applies: understand the actual problem, then make the result feel intentional.
-
-No unnecessary complexity.  
-No decorative technology.  
-No "AI" pasted onto things that don't need it.
-
----
-
-## / 12 — SIGNALS
-
-<div align="center">
-
-<a href="https://github.com/Aniket28-4L?tab=repositories">REPOSITORIES</a> &nbsp; · &nbsp; <a href="https://github.com/Aniket28-4L">GITHUB</a>
-
-<br/><br/>
-
-<sub>ANIKET PANDEY / AI + SOFTWARE + CREATIVE ENGINEERING</sub>
+<a href="https://github.com/Aniket28-4L/Gen-AI-Portfolio">VIEW REPOSITORY →</a>
 
 <br/>
 
-<code>observe → question → construct → stress-test → refine → ship</code>
+## 06 / CURRENT EXPERIMENTS
+
+```text
+[ BUILD ]     AI systems that do more than chat
+[ EXPLORE ]   agent workflows + tool use
+[ IMPROVE ]   full-stack architecture
+[ STUDY ]     deployment + infrastructure
+[ DESIGN ]    interfaces where motion has a job
+[ QUESTION ]  where should AI stop and deterministic code begin?
+```
+
+<br/>
+
+## 07 / HOW I THINK ABOUT BUILDING
+
+| PRINCIPLE | PRACTICE |
+|---|---|
+| **START WITH THE PROBLEM** | Technology follows the problem, not the other way around. |
+| **BUILD THE FIRST VERSION** | Working software creates better questions. |
+| **KEEP IT LEGIBLE** | If I can't explain the system, I haven't understood it enough. |
+| **USE AI WITH INTENT** | Give models a defined role instead of sprinkling AI everywhere. |
+| **DESIGN IS ENGINEERING** | Behaviour, hierarchy and interaction are part of the product. |
+| **BREAK THE HAPPY PATH** | Failure is a faster teacher than a perfect demo. |
+| **SHIP THE LEARNING** | Every project should leave me knowing something I didn't know before. |
+
+<br/>
+
+## 08 / THE LOOP
+
+<div align="center">
+<img src="./assets/loop.svg" alt="Build observe refine ship loop" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### BUILD · TEST · BREAK · DEBUG · SHIP
+
+`AI` · `SOFTWARE` · `SYSTEMS` · `EXPERIMENTS`
+
+<br/>
+
+<sub>ANIKET PANDEY / BUILDING IN PUBLIC, LEARNING IN THE PROCESS</sub>
 
 </div>
