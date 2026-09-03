@@ -1,0 +1,41 @@
+name: Render profile motion
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'remotion/**'
+      - 'package.json'
+      - '.github/workflows/render-profile-motion.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Render GIF
+        run: npm run remotion:render
+
+      - name: Publish motion asset
+        run: |
+          mkdir -p assets
+          cp out/profile-motion.gif assets/profile-motion.gif
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/profile-motion.gif
+          git diff --cached --quiet || git commit -m 'build: render profile motion'
+          git push
