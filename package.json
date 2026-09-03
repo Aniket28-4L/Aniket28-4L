@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "remotion:studio": "remotion studio remotion/index.tsx",
+    "remotion:render": "remotion render remotion/index.tsx ProfileMotion out/profile-motion.gif --codec=gif"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.240",
+    "@remotion/gif": "4.0.240",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.240"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "typescript": "5.7.2"
+  }
+}
